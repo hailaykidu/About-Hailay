@@ -3,6 +3,7 @@
 
 🚀 **About Me:**
 - 🎓 PhD student at **Leibniz University of Hannover (L3S Research Center)** under Prof. Wolfgang Nejdl.
+-  **Research Associate** at the Theological Faculty of the **University of Zurich**, Switzerland.
 - 🏫 Previously at **Beijing University of Technology**.
 - 🏗️ Former Assistant Professor at **Mekelle University**.
 - 🔬 Research Interests: **Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG)**.
